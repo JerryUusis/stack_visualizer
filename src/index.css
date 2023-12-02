@@ -1,0 +1,14 @@
+.stack-container {
+  display: flex;
+  flex-direction: column-reverse;
+  padding: 1rem 0;
+}
+
+.stack-item {
+  border: 1px solid black;
+  padding: 1rem;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  margin: 0;
+}
